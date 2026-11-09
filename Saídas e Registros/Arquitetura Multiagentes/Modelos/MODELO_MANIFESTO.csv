@@ -1,0 +1,2 @@
+id_item;tipo;caminho_absoluto;bytes;sha256;versao_origem;status;observacao
+EXEMPLO_NAO_EXECUTADO;MODELO;<caminho absoluto do arquivo>;<bytes>;<SHA-256>;<ID/hash de origem>;MODELO_SEM_ARQUIVO_REAL;Substituir por registro real após conferir existência e hash

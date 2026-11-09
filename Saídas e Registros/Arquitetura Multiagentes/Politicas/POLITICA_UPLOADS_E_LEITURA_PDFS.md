@@ -1,0 +1,4 @@
+# Uploads e leitura documental
+Todos os agentes atuam somente mediante prompts expressos do proprietário. Estado: CONFIGURADO — DISPONÍVEL SOB DEMANDA. Nenhuma auditoria começa por mero anexo. Preservar originais e hashes; não transmitir inéditos sem autorização específica. Similaridade não prova plágio; indicadores de IA não provam autoria. Não há acesso a bases proprietárias do iThenticate.
+Aceitar anexos acessíveis sem movimentação prévia. Registrar identificador do anexo ou caminho real, papel, formato e hash disponível. PDF: extração por página, numeração impressa separada; duas colunas/notas/tabelas exigem conferência visual. Scan sem texto: diagnosticar e testar OCR local disponível, registrar idioma e incerteza. DOCX: ordem de parágrafos/tabelas/notas e estilos; nunca executar macros. Registrar limitações de leitura em vez de declarar ausência.
+

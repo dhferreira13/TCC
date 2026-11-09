@@ -1,0 +1,4 @@
+# Pesquisa acadêmica pública
+Todos os agentes atuam somente mediante prompts expressos do proprietário. Estado: CONFIGURADO — DISPONÍVEL SOB DEMANDA. Nenhuma auditoria começa por mero anexo. Preservar originais e hashes; não transmitir inéditos sem autorização específica. Similaridade não prova plágio; indicadores de IA não provam autoria. Não há acesso a bases proprietárias do iThenticate.
+Camadas: título/autor/ano/DOI; repositórios abertos; índices de metadados; candidatos conceituais; recuperação legítima; conferência. Fontes: SciELO, BDTD, Oasisbr, UFG, universidades, CAPES com acesso legítimo, Scholar conforme restrições, Crossref, OpenAlex, Semantic Scholar, DOAJ, CORE e arXiv pertinente. Registrar URL/data/licença/versão e distinguir texto integral comparado, parcial, resumo, metadados e candidato. Não contornar controles. Disponibilidade precisa ser testada por auditoria.
+
